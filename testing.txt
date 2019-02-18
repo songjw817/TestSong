@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-from master
-=======
-from testing
->>>>>>> testing
+test
+1
